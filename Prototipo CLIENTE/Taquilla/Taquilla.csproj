@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{074388C5-EE56-4D60-BCD6-C15B58D2A6A6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Taquilla</RootNamespace>
+    <AssemblyName>Taquilla</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_asiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_asiento.Designer.cs">
+      <DependentUpon>frm_asiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ayuda.Designer.cs">
+      <DependentUpon>frm_ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cartelera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cartelera.Designer.cs">
+      <DependentUpon>frm_cartelera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_correo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_correo.Designer.cs">
+      <DependentUpon>frm_correo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_estrenos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_estrenos.Designer.cs">
+      <DependentUpon>frm_estrenos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_facturaB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_facturaB.Designer.cs">
+      <DependentUpon>frm_facturaB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_facturaP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_facturaP.Designer.cs">
+      <DependentUpon>frm_facturaP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_menu.Designer.cs">
+      <DependentUpon>frm_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_peli1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_peli1.Designer.cs">
+      <DependentUpon>frm_peli1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_peli2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_peli2.Designer.cs">
+      <DependentUpon>frm_peli2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_peli3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_peli3.Designer.cs">
+      <DependentUpon>frm_peli3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_peli4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_peli4.Designer.cs">
+      <DependentUpon>frm_peli4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_peli5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_peli5.Designer.cs">
+      <DependentUpon>frm_peli5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_peli6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_peli6.Designer.cs">
+      <DependentUpon>frm_peli6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_productos.Designer.cs">
+      <DependentUpon>frm_productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_registro.Designer.cs">
+      <DependentUpon>frm_registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_sesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_sesion.Designer.cs">
+      <DependentUpon>frm_sesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_usuario.Designer.cs">
+      <DependentUpon>frm_usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_asiento.resx">
+      <DependentUpon>frm_asiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ayuda.resx">
+      <DependentUpon>frm_ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cartelera.resx">
+      <DependentUpon>frm_cartelera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_correo.resx">
+      <DependentUpon>frm_correo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_estrenos.resx">
+      <DependentUpon>frm_estrenos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_facturaB.resx">
+      <DependentUpon>frm_facturaB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_facturaP.resx">
+      <DependentUpon>frm_facturaP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_menu.resx">
+      <DependentUpon>frm_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_peli1.resx">
+      <DependentUpon>frm_peli1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_peli2.resx">
+      <DependentUpon>frm_peli2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_peli3.resx">
+      <DependentUpon>frm_peli3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_peli4.resx">
+      <DependentUpon>frm_peli4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_peli5.resx">
+      <DependentUpon>frm_peli5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_peli6.resx">
+      <DependentUpon>frm_peli6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_productos.resx">
+      <DependentUpon>frm_productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_registro.resx">
+      <DependentUpon>frm_registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_sesion.resx">
+      <DependentUpon>frm_sesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_usuario.resx">
+      <DependentUpon>frm_usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\combo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\combo5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\combo4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\combo3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\combo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mision_Imposible.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\venom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rascacielos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hotel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pesadilla.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2018-07-12 at 9.23.59 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoMenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_5190.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pantalla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seleccionado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sillaNaranja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SillaAzul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Disponible.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuatro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ocho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nueve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diez.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
