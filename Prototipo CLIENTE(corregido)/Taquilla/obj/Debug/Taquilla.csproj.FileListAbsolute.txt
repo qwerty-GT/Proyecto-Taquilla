@@ -1,0 +1,180 @@
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_estrenos.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_menu.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_productos.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_registro.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_sesion.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.Properties.Resources.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli1.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli2.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli3.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli4.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli5.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli6.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_correo.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_facturaP.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_ayuda.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_asiento.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_facturaB.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\Taquilla\Taquilla\obj\Debug\Taquilla.frm_cartelera.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.csprojResolveAssemblyReference.cache
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_asiento.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_ayuda.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_cartelera.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_correo.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_estrenos.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_facturaB.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_facturaP.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_menu.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli1.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli2.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli3.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli4.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli5.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli6.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_productos.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_registro.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.frm_sesion.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.Properties.Resources.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Taquilla\Taquilla\obj\Debug\Taquilla.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_asiento.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_ayuda.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_cartelera.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_correo.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_estrenos.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_facturaB.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_facturaP.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_menu.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli1.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli2.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli3.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli4.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli5.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_peli6.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_productos.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_registro.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_sesion.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.frm_usuario.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.Properties.Resources.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\otro\Taquilla\Taquilla\obj\Debug\Taquilla.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_asiento.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_ayuda.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_cartelera.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_correo.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_estrenos.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_facturaB.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_facturaP.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_menu.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli1.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli2.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli3.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli4.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli5.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli6.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_productos.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_registro.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_sesion.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_usuario.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.Properties.Resources.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Prototipo CLIENTE\CLIENTE\Taquilla\obj\Debug\Taquilla.csproj.GenerateResource.Cache
+D:\Desktop\CLIENTE\Taquilla\bin\Debug\Taquilla.exe.config
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.exe
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.pdb
+D:\Desktop\CLIENTE\Taquilla\bin\Debug\Taquilla.exe
+D:\Desktop\CLIENTE\Taquilla\bin\Debug\Taquilla.pdb
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.csprojResolveAssemblyReference.cache
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_asiento.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_ayuda.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_cartelera.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_correo.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_estrenos.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_facturaB.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_facturaP.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_menu.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli1.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli2.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli3.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli4.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli5.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli6.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_productos.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_registro.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_sesion.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_usuario.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.Properties.Resources.resources
+D:\Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.csproj.GenerateResource.Cache
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.csprojResolveAssemblyReference.cache
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_asiento.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_ayuda.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_cartelera.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_correo.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_estrenos.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_facturaB.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_facturaP.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_menu.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli1.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli2.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli3.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli4.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli5.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli6.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_productos.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_registro.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_sesion.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_usuario.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.Properties.Resources.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\CLIENTE\Taquilla\obj\Debug\Taquilla.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_asiento.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_ayuda.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_cartelera.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_correo.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_estrenos.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_facturaB.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_facturaP.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_menu.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli1.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli2.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli3.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli4.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli5.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_peli6.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_productos.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_registro.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_sesion.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.frm_usuario.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.Properties.Resources.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\CLIENTE\Taquilla\obj\Debug\Taquilla.pdb
