@@ -1,0 +1,122 @@
+c:\users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+c:\users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\bin\Debug\ADMIN.exe
+c:\users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\bin\Debug\ADMIN.pdb
+c:\users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.csprojResolveAssemblyReference.cache
+c:\users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.Properties.Resources.resources
+c:\users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.GenerateResource.Cache
+c:\users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.exe
+c:\users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.pdb
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\obj\Debug\ADMIN.pdb
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\bin\Debug\ADMIN.exe
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\bin\Debug\ADMIN.pdb
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\obj\Debug\ADMIN.csprojResolveAssemblyReference.cache
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\obj\Debug\ADMIN.LogIn.resources
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\obj\Debug\ADMIN.Properties.Resources.resources
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.GenerateResource.Cache
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\obj\Debug\ADMIN.Menu_inicial.resources
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\obj\Debug\ADMIN.Ayuda.resources
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\obj\Debug\ADMIN.Cartelera.resources
+C:\Users\jtanc\Downloads\ADMIN\ADMIN\obj\Debug\ADMIN.Reportes.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.pdb
+C:\Users\chopes\Desktop\ADMIN\ADMIN\bin\Debug\ADMIN.exe
+C:\Users\chopes\Desktop\ADMIN\ADMIN\bin\Debug\ADMIN.pdb
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.csprojResolveAssemblyReference.cache
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Ayuda.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.LogIn.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Properties.Resources.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Reportes.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.GenerateResource.Cache
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Usuarios.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Peliculas.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Generos.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Salas.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Main.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Formatos.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Idiomas.resources
+C:\Users\chopes\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Proyecciones.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.pdb
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\bin\Debug\ADMIN.exe
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\bin\Debug\ADMIN.pdb
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.csprojResolveAssemblyReference.cache
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Ayuda.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Formatos.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Generos.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Idiomas.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.LogIn.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Main.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Peliculas.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Properties.Resources.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Proyecciones.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Reportes.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Salas.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.Usuarios.resources
+C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\AS2 - TAQUILLA\Nueva carpeta\ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\User\Desktop\AS2 - TAQUILLA\Nueva carpeta\ADMIN\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\User\Desktop\AS2 - TAQUILLA\Nueva carpeta\ADMIN\ADMIN\obj\Debug\ADMIN.pdb
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\ADMIN\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\User\Desktop\AS2 - TAQUILLA\Taquilla\ADMIN\ADMIN\obj\Debug\ADMIN.pdb
+D:\Desktop\Prototipo ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.exe
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.pdb
+D:\Desktop\Prototipo ADMIN\ADMIN\bin\Debug\ADMIN.exe
+D:\Desktop\Prototipo ADMIN\ADMIN\bin\Debug\ADMIN.pdb
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.csprojResolveAssemblyReference.cache
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.Main.resources
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.Properties.Resources.resources
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.csproj.GenerateResource.Cache
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.pdb
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\bin\Debug\ADMIN.exe
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\bin\Debug\ADMIN.pdb
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.csprojResolveAssemblyReference.cache
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_ayuda.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_formatos.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_generos.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_idiomas.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_logIn.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.Main.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_peliculas.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.Properties.Resources.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_proyecciones.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_reportes.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_salas.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_usuarios.resources
+C:\Users\Javiman\Downloads\Telegram Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.csproj.GenerateResource.Cache
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_ayuda.resources
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_formatos.resources
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_generos.resources
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_idiomas.resources
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_logIn.resources
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_peliculas.resources
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_proyecciones.resources
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_reportes.resources
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_salas.resources
+D:\Desktop\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.frm_usuarios.resources
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\Prototipo ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\User\Desktop\AS2 - TAQUILLA\Correcciones\Prototipo ADMIN\ADMIN\obj\Debug\ADMIN.pdb
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_ayuda.resources
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_formatos.resources
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_generos.resources
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_logIn.resources
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_peliculas.resources
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_reportes.resources
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_salas.resources
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_usuarios.resources
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_main.resources
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\ADMIN\ADMIN\bin\Debug\MySql.Data.dll
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\ADMIN\ADMIN\bin\Debug\MySql.Data.xml
+C:\Users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_idiomas.resources
+C:\Users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_subtitulado.resources
+C:\Users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_horarios.resources
+C:\Users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_cines.resources
+C:\Users\chopes\documents\visual studio 2015\Projects\ADMIN\ADMIN\obj\Debug\ADMIN.frm_funciones.resources
