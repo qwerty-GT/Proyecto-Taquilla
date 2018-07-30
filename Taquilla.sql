@@ -24,8 +24,7 @@ DROP TABLE IF EXISTS `asientos`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `asientos` (
   `id_asiento` int(11) NOT NULL,
-  `fila_asiento` int(11) DEFAULT NULL,
-  `columna_asiento` int(11) DEFAULT NULL,
+  `estado_asiento` int(11) DEFAULT NULL,
   `id_sala` int(11) NOT NULL,
   PRIMARY KEY (`id_asiento`),
   KEY `fk_Asiento_Sala1_idx` (`id_sala`),
@@ -54,11 +53,11 @@ CREATE TABLE `bitacora` (
   `operacion_bitacora` varchar(45) DEFAULT NULL,
   `fecha_hora_bitacora` datetime DEFAULT NULL,
   `usu_usuario` varchar(45) NOT NULL,
-  `host_name_bitacora` varchar(45) DEFAULT NULL,
+  `host_bitacora` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`id_bitacora`),
   KEY `fk_Bitacora_Usuario1_idx` (`usu_usuario`),
   CONSTRAINT `fk_Bitacora_Usuario1` FOREIGN KEY (`usu_usuario`) REFERENCES `usuario` (`usu_usuario`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -67,7 +66,7 @@ CREATE TABLE `bitacora` (
 
 LOCK TABLES `bitacora` WRITE;
 /*!40000 ALTER TABLE `bitacora` DISABLE KEYS */;
-INSERT INTO `bitacora` VALUES (1,'LOG IN','2018-07-25 02:27:50','chopes','root@localhost'),(2,'LOG IN','2018-07-25 02:29:10','chopes','root@localhost'),(3,'LOG IN','2018-07-25 02:31:08','chopes','root@localhost'),(4,'LOG IN','2018-07-25 02:31:41','root','root@localhost');
+INSERT INTO `bitacora` VALUES (1,'LOG IN','2018-07-29 14:52:29','chopes','chopes@localhost'),(2,'LOG IN','2018-07-29 14:53:08','chopes','chopes@localhost'),(3,'LOG IN','2018-07-29 14:54:43','chopes','chopes@localhost'),(4,'LOG IN','2018-07-29 14:55:28','chopes','chopes@localhost'),(5,'LOG IN','2018-07-29 14:55:48','chopes','chopes@localhost'),(6,'LOG IN','2018-07-29 14:56:13','chopes','chopes@localhost'),(7,'LOG IN','2018-07-29 14:56:28','chopes','chopes@localhost'),(8,'LOG IN','2018-07-29 15:16:11','chopes','chopes@localhost'),(9,'LOG IN','2018-07-29 15:16:16','one','chopes@localhost'),(10,'LOG IN','2018-07-29 15:17:07','two','chopes@localhost'),(11,'LOG IN','2018-07-29 15:21:35','chopes','chopes@localhost'),(12,'LOG IN','2018-07-29 15:23:01','chopes','chopes@localhost'),(13,'LOG IN','2018-07-29 15:31:33','chopes','chopes@localhost'),(14,'LOG IN','2018-07-29 15:32:05','chopes','chopes@localhost');
 /*!40000 ALTER TABLE `bitacora` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -95,7 +94,7 @@ CREATE TABLE `cine` (
 
 LOCK TABLES `cine` WRITE;
 /*!40000 ALTER TABLE `cine` DISABLE KEYS */;
-INSERT INTO `cine` VALUES (1,'MIRAFLORES','ZONA 3',9),(2,'NARANJO MALL','ZONA 5',9),(3,'PRADERA','ZONA 12',11),(4,'CAYALA','ZONA 1',4);
+INSERT INTO `cine` VALUES (1,'MIRAFLORES','ZONA 3',9),(2,'NARANJO MALL','ZONA 5',9),(3,'PRADERA','ZONA 12',7),(4,'CAYALA','ZONA 1',3);
 /*!40000 ALTER TABLE `cine` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -295,7 +294,7 @@ CREATE TABLE `funcion` (
   CONSTRAINT `fk_FUNCION_SALA1` FOREIGN KEY (`id_sala`) REFERENCES `sala` (`id_sala`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_FUNCION_SUBTITULADO1` FOREIGN KEY (`id_subtitulado`) REFERENCES `subtitulado` (`id_subtitulado`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_Hora_Funcion_Pelicula1` FOREIGN KEY (`id_pelicula`) REFERENCES `pelicula` (`id_pelicula`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=39 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -304,7 +303,7 @@ CREATE TABLE `funcion` (
 
 LOCK TABLES `funcion` WRITE;
 /*!40000 ALTER TABLE `funcion` DISABLE KEYS */;
-INSERT INTO `funcion` VALUES (1,2,'2018-07-14',3,2,2,1,1),(2,3,'2018-07-25',2,4,1,2,2),(3,1,'2018-07-25',3,2,2,2,2);
+INSERT INTO `funcion` VALUES (13,5,'2018-02-07',1,1,1,2,1),(14,4,'2018-02-08',2,2,3,2,1),(15,6,'2018-02-06',3,3,3,3,1),(16,7,'2018-02-09',2,3,2,2,1),(19,7,'2018-02-01',2,2,2,1,2),(20,8,'2018-02-01',1,2,3,2,2),(30,6,'2018-07-20',1,1,2,2,1),(31,7,'2018-08-21',2,2,3,2,1),(32,7,'2018-09-10',3,3,3,3,1),(33,7,'2018-06-19',2,2,2,2,1),(34,8,'2018-10-23',2,2,2,1,2),(35,9,'2018-09-27',1,2,2,2,2),(36,9,'2018-11-30',1,2,3,2,2),(37,9,'2018-12-28',2,1,1,2,2),(38,6,'2018-07-13',3,2,2,2,2);
 /*!40000 ALTER TABLE `funcion` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -423,7 +422,7 @@ CREATE TABLE `pelicula` (
   KEY `fk_Pelicula_Genero1_idx` (`id_genero`),
   CONSTRAINT `fk_Pelicula_Clasificacion1` FOREIGN KEY (`id_clasificacion`) REFERENCES `clasificacion` (`id_clasificacion`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_Pelicula_Genero1` FOREIGN KEY (`id_genero`) REFERENCES `genero` (`id_genero`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -432,7 +431,7 @@ CREATE TABLE `pelicula` (
 
 LOCK TABLES `pelicula` WRITE;
 /*!40000 ALTER TABLE `pelicula` DISABLE KEYS */;
-INSERT INTO `pelicula` VALUES (1,'INTERESTELAR','ESTRENADA','La película presenta a un equipo de astronautas que viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.',2,4,'02:19:00'),(2,'INCEPTION','PROXIMO ESTRENO','Dom Cobb es un ladrón, prófugo de la justicia estadounidense, especializado en infiltrarse en los sueños para robar ideas, claves de bancos, etc.',2,4,'01:59:00'),(3,'TOY STORY','ESTRENADA','La historia sigue las aventuras de un grupo de juguetes vivientes, en particular del vaquero Woody y el guardián espacial Buzz Lightyear.',1,5,'01:30:00');
+INSERT INTO `pelicula` VALUES (4,'Avengers','Estrenada','buena lica',1,1,'01:00:00'),(5,'DeadPool','Estrenada','buena lica',2,2,'01:00:00'),(6,'Ant-Man','Estrenada','buena lica',3,3,'01:00:00'),(7,'Mision Imposible','Estrenada','Mucha accion',1,1,'01:00:00'),(8,'Logan','Estrenada','Mucha accion',2,2,'01:50:00'),(9,'X-men','Estrenada','Mucha accion',3,3,'02:00:00'),(10,'Hotel Transilvania','Estrenada','Mucha accion',4,4,'01:40:00'),(11,'Lego Batman','Proximo Estreno','Mucha accion',5,5,'01:30:00'),(12,'Iron Man','Estrenada','Mucha accion',5,5,'01:45:00');
 /*!40000 ALTER TABLE `pelicula` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -544,7 +543,7 @@ CREATE TABLE `sala` (
   KEY `fk_SALA_FORMATO1_idx` (`id_experiencia`),
   CONSTRAINT `fk_SALA_CINE1` FOREIGN KEY (`id_cine`) REFERENCES `cine` (`id_cine`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_SALA_FORMATO1` FOREIGN KEY (`id_experiencia`) REFERENCES `experiencia` (`id_experiencia`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -553,7 +552,7 @@ CREATE TABLE `sala` (
 
 LOCK TABLES `sala` WRITE;
 /*!40000 ALTER TABLE `sala` DISABLE KEYS */;
-INSERT INTO `sala` VALUES (1,23,10,3,2,2),(2,18,18,1,4,13);
+INSERT INTO `sala` VALUES (1,6,10,1,1,1),(2,6,10,2,3,1),(3,6,10,3,2,1),(4,6,10,1,3,1),(5,6,10,2,1,1);
 /*!40000 ALTER TABLE `sala` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -616,7 +615,10 @@ DROP TABLE IF EXISTS `usuario`;
 CREATE TABLE `usuario` (
   `usu_usuario` varchar(30) NOT NULL,
   `pass_usuario` varchar(32) DEFAULT NULL,
-  `privilegio_usuario` int(11) DEFAULT NULL,
+  `insert_usuario` int(11) DEFAULT NULL,
+  `select_usuario` int(11) DEFAULT NULL,
+  `update_usuario` int(11) DEFAULT NULL,
+  `delete_usuario` int(11) DEFAULT NULL,
   PRIMARY KEY (`usu_usuario`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -627,7 +629,7 @@ CREATE TABLE `usuario` (
 
 LOCK TABLES `usuario` WRITE;
 /*!40000 ALTER TABLE `usuario` DISABLE KEYS */;
-INSERT INTO `usuario` VALUES ('chopes','e1d5be1c7f2f456670de3d53c7b54f4a',0),('julio','3b712de48137572f3849aabd5666a4e3',1),('root','e1d5be1c7f2f456670de3d53c7b54f4a',0);
+INSERT INTO `usuario` VALUES ('chopes','e1d5be1c7f2f456670de3d53c7b54f4a',1,1,1,1),('dos','e1d5be1c7f2f456670de3d53c7b54f4a',1,0,0,0),('five','e1d5be1c7f2f456670de3d53c7b54f4a',0,1,1,1),('one','e1d5be1c7f2f456670de3d53c7b54f4a',0,0,0,1),('tres','e1d5be1c7f2f456670de3d53c7b54f4a',0,1,0,0),('two','e1d5be1c7f2f456670de3d53c7b54f4a',0,0,1,0),('yulio','e1d5be1c7f2f456670de3d53c7b54f4a',0,0,0,0);
 /*!40000 ALTER TABLE `usuario` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -640,4 +642,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-07-25  2:47:02
+-- Dump completed on 2018-07-30  2:43:07
