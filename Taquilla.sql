@@ -16,32 +16,6 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `asientos`
---
-
-DROP TABLE IF EXISTS `asientos`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `asientos` (
-  `id_asiento` int(11) NOT NULL,
-  `estado_asiento` int(11) DEFAULT NULL,
-  `id_sala` int(11) NOT NULL,
-  PRIMARY KEY (`id_asiento`),
-  KEY `fk_Asiento_Sala1_idx` (`id_sala`),
-  CONSTRAINT `fk_Asiento_Sala1` FOREIGN KEY (`id_sala`) REFERENCES `sala` (`id_sala`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `asientos`
---
-
-LOCK TABLES `asientos` WRITE;
-/*!40000 ALTER TABLE `asientos` DISABLE KEYS */;
-/*!40000 ALTER TABLE `asientos` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `bitacora`
 --
 
@@ -57,7 +31,7 @@ CREATE TABLE `bitacora` (
   PRIMARY KEY (`id_bitacora`),
   KEY `fk_Bitacora_Usuario1_idx` (`usu_usuario`),
   CONSTRAINT `fk_Bitacora_Usuario1` FOREIGN KEY (`usu_usuario`) REFERENCES `usuario` (`usu_usuario`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -66,7 +40,7 @@ CREATE TABLE `bitacora` (
 
 LOCK TABLES `bitacora` WRITE;
 /*!40000 ALTER TABLE `bitacora` DISABLE KEYS */;
-INSERT INTO `bitacora` VALUES (1,'LOG IN','2018-07-29 14:52:29','chopes','chopes@localhost'),(2,'LOG IN','2018-07-29 14:53:08','chopes','chopes@localhost'),(3,'LOG IN','2018-07-29 14:54:43','chopes','chopes@localhost'),(4,'LOG IN','2018-07-29 14:55:28','chopes','chopes@localhost'),(5,'LOG IN','2018-07-29 14:55:48','chopes','chopes@localhost'),(6,'LOG IN','2018-07-29 14:56:13','chopes','chopes@localhost'),(7,'LOG IN','2018-07-29 14:56:28','chopes','chopes@localhost'),(8,'LOG IN','2018-07-29 15:16:11','chopes','chopes@localhost'),(9,'LOG IN','2018-07-29 15:16:16','one','chopes@localhost'),(10,'LOG IN','2018-07-29 15:17:07','two','chopes@localhost'),(11,'LOG IN','2018-07-29 15:21:35','chopes','chopes@localhost'),(12,'LOG IN','2018-07-29 15:23:01','chopes','chopes@localhost'),(13,'LOG IN','2018-07-29 15:31:33','chopes','chopes@localhost'),(14,'LOG IN','2018-07-29 15:32:05','chopes','chopes@localhost');
+INSERT INTO `bitacora` VALUES (1,'LOG IN','2018-08-05 17:34:42','chopes','chopes@localhost'),(2,'LOG IN','2018-08-05 17:38:13','chopes','chopes@localhost'),(3,'LOG IN','2018-08-05 18:05:12','chopes','root@localhost'),(4,'LOG IN','2018-08-05 20:35:49','chopes','root@localhost'),(5,'LOG IN','2018-08-05 20:46:39','chopes','root@localhost'),(6,'LOG IN','2018-08-05 22:07:32','chopes','chopes@localhost'),(7,'LOG IN','2018-08-05 22:09:41','chopes','chopes@localhost');
 /*!40000 ALTER TABLE `bitacora` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -85,7 +59,7 @@ CREATE TABLE `cine` (
   PRIMARY KEY (`id_cine`),
   KEY `fk_CINE_DEPARTAMENTO1_idx` (`id_departamento`),
   CONSTRAINT `fk_CINE_DEPARTAMENTO1` FOREIGN KEY (`id_departamento`) REFERENCES `departamento` (`id_departamento`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -94,7 +68,7 @@ CREATE TABLE `cine` (
 
 LOCK TABLES `cine` WRITE;
 /*!40000 ALTER TABLE `cine` DISABLE KEYS */;
-INSERT INTO `cine` VALUES (1,'MIRAFLORES','ZONA 3',9),(2,'NARANJO MALL','ZONA 5',9),(3,'PRADERA','ZONA 12',7),(4,'CAYALA','ZONA 1',3);
+INSERT INTO `cine` VALUES (1,'MIRAFLORES','ZONA 11',1),(2,'PORTALES','ZONA 18',1),(3,'CAYALÁ','ZONA 16',1),(4,'OAKLAND MALL','ZONA 10',1),(5,'UTZ','ZONA 7 - XELA',2);
 /*!40000 ALTER TABLE `cine` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -118,7 +92,7 @@ CREATE TABLE `clasificacion` (
 
 LOCK TABLES `clasificacion` WRITE;
 /*!40000 ALTER TABLE `clasificacion` DISABLE KEYS */;
-INSERT INTO `clasificacion` VALUES (1,'G'),(2,'PG'),(3,'PG-13'),(4,'R'),(5,'NC-17'),(6,'NR');
+INSERT INTO `clasificacion` VALUES (1,'A'),(2,'B-13'),(3,'B-15'),(4,'R'),(5,'NC-17'),(6,'NR');
 /*!40000 ALTER TABLE `clasificacion` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -174,7 +148,7 @@ CREATE TABLE `departamento` (
 
 LOCK TABLES `departamento` WRITE;
 /*!40000 ALTER TABLE `departamento` DISABLE KEYS */;
-INSERT INTO `departamento` VALUES (1,'Alta Verapaz'),(2,'Baja Verapaz'),(3,'Chimaltenango'),(4,'Chiquimula'),(5,'Petén'),(6,'El Progreso'),(7,'Quiché'),(8,'Escuintla'),(9,'Guatemala'),(10,'Huehuetenango'),(11,'Izabal'),(12,'Jalapa'),(13,'Jutiapa'),(14,'Quetzaltenango'),(15,'Retalhuleu'),(16,'Sacatepéquez'),(17,'San Marcos'),(18,'Santa Rosa'),(19,'Sololá Sololá'),(20,'Suchitepéquez'),(21,'Totonicapán'),(22,'Zacapa');
+INSERT INTO `departamento` VALUES (1,'Guatemala'),(2,'Quetzaltenango');
 /*!40000 ALTER TABLE `departamento` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -199,7 +173,7 @@ CREATE TABLE `experiencia` (
 
 LOCK TABLES `experiencia` WRITE;
 /*!40000 ALTER TABLE `experiencia` DISABLE KEYS */;
-INSERT INTO `experiencia` VALUES (1,'VIP',85),(2,'4D',98),(3,'4DX',110),(4,'IMAX',50),(5,'MACRO XE',55);
+INSERT INTO `experiencia` VALUES (1,'VIP',85),(2,'NORMAL',40),(3,'4DX',110);
 /*!40000 ALTER TABLE `experiencia` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -261,7 +235,7 @@ CREATE TABLE `formato` (
 
 LOCK TABLES `formato` WRITE;
 /*!40000 ALTER TABLE `formato` DISABLE KEYS */;
-INSERT INTO `formato` VALUES (1,'2D',43),(2,'3D',79);
+INSERT INTO `formato` VALUES (1,'2D',1),(2,'3D',1.2);
 /*!40000 ALTER TABLE `formato` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -288,13 +262,13 @@ CREATE TABLE `funcion` (
   KEY `fk_FUNCION_HORARIO1_idx` (`id_horario`),
   KEY `fk_FUNCION_SALA1_idx` (`id_sala`),
   KEY `fk_FUNCION_FORMATO1_idx` (`id_formato`),
-  CONSTRAINT `fk_FUNCION_FORMATO1` FOREIGN KEY (`id_formato`) REFERENCES `formato` (`id_formato`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_FUNCION_FORMATO1` FOREIGN KEY (`id_formato`) REFERENCES `formato` (`id_formato`),
   CONSTRAINT `fk_FUNCION_HORARIO1` FOREIGN KEY (`id_horario`) REFERENCES `horario` (`id_horario`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_FUNCION_IDIOMA1` FOREIGN KEY (`id_idioma`) REFERENCES `idioma` (`id_idioma`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_FUNCION_SALA1` FOREIGN KEY (`id_sala`) REFERENCES `sala` (`id_sala`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_FUNCION_SUBTITULADO1` FOREIGN KEY (`id_subtitulado`) REFERENCES `subtitulado` (`id_subtitulado`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_Hora_Funcion_Pelicula1` FOREIGN KEY (`id_pelicula`) REFERENCES `pelicula` (`id_pelicula`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=39 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -303,7 +277,7 @@ CREATE TABLE `funcion` (
 
 LOCK TABLES `funcion` WRITE;
 /*!40000 ALTER TABLE `funcion` DISABLE KEYS */;
-INSERT INTO `funcion` VALUES (13,5,'2018-02-07',1,1,1,2,1),(14,4,'2018-02-08',2,2,3,2,1),(15,6,'2018-02-06',3,3,3,3,1),(16,7,'2018-02-09',2,3,2,2,1),(19,7,'2018-02-01',2,2,2,1,2),(20,8,'2018-02-01',1,2,3,2,2),(30,6,'2018-07-20',1,1,2,2,1),(31,7,'2018-08-21',2,2,3,2,1),(32,7,'2018-09-10',3,3,3,3,1),(33,7,'2018-06-19',2,2,2,2,1),(34,8,'2018-10-23',2,2,2,1,2),(35,9,'2018-09-27',1,2,2,2,2),(36,9,'2018-11-30',1,2,3,2,2),(37,9,'2018-12-28',2,1,1,2,2),(38,6,'2018-07-13',3,2,2,2,2);
+INSERT INTO `funcion` VALUES (1,1,'2018-05-15',2,1,1,1,2),(2,3,'2018-05-18',2,1,2,2,1),(3,4,'2018-05-17',2,1,3,3,2),(4,5,'2018-05-16',1,2,1,4,2),(5,6,'2018-05-20',1,2,2,5,1),(6,8,'2018-05-30',1,2,3,6,2);
 /*!40000 ALTER TABLE `funcion` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -327,7 +301,7 @@ CREATE TABLE `genero` (
 
 LOCK TABLES `genero` WRITE;
 /*!40000 ALTER TABLE `genero` DISABLE KEYS */;
-INSERT INTO `genero` VALUES (1,'DRAMA'),(2,'COMEDIA'),(3,'ACCION'),(4,'CIENCIA FICCION'),(5,'FANTASIA'),(6,'TERROR'),(7,'ROMANCE'),(8,'MUSICAL'),(9,'MELODRAMA'),(10,'SUSPENSE');
+INSERT INTO `genero` VALUES (1,'DRAMA'),(2,'COMEDIA'),(3,'ACCION'),(4,'CIENCIA FICCION'),(5,'FANTASIA'),(6,'TERROR'),(7,'ROMANCE'),(8,'MUSICAL'),(9,'ANIMACION'),(10,'SUSPENSO');
 /*!40000 ALTER TABLE `genero` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -351,7 +325,7 @@ CREATE TABLE `horario` (
 
 LOCK TABLES `horario` WRITE;
 /*!40000 ALTER TABLE `horario` DISABLE KEYS */;
-INSERT INTO `horario` VALUES (1,'01:24:00'),(2,'22:30:00'),(3,'12:34:00');
+INSERT INTO `horario` VALUES (1,'15:20:00'),(2,'22:30:00'),(3,'12:00:00');
 /*!40000 ALTER TABLE `horario` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -375,7 +349,7 @@ CREATE TABLE `idioma` (
 
 LOCK TABLES `idioma` WRITE;
 /*!40000 ALTER TABLE `idioma` DISABLE KEYS */;
-INSERT INTO `idioma` VALUES (1,'SPANISH'),(2,'INGLES'),(3,'FRANCES'),(4,'ALEMAN');
+INSERT INTO `idioma` VALUES (1,'SPANISH'),(2,'INGLES');
 /*!40000 ALTER TABLE `idioma` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -411,18 +385,20 @@ DROP TABLE IF EXISTS `pelicula`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `pelicula` (
   `id_pelicula` int(11) NOT NULL AUTO_INCREMENT,
-  `nombre_pelicula` varchar(30) DEFAULT NULL,
-  `estado_pelicula` varchar(30) DEFAULT NULL,
-  `sinopsis_pelicula` varchar(150) DEFAULT NULL,
+  `nombre_pelicula` varchar(45) DEFAULT NULL,
+  `estado_pelicula` int(11) DEFAULT NULL,
+  `sinopsis_pelicula` varchar(700) DEFAULT NULL,
   `id_clasificacion` int(11) NOT NULL,
   `id_genero` int(11) NOT NULL,
   `duracion_pelicula` time DEFAULT NULL,
+  `video_pelicula` varchar(500) DEFAULT NULL,
+  `imagen_pelicula` varchar(500) DEFAULT NULL,
   PRIMARY KEY (`id_pelicula`),
   KEY `fk_Pelicula_Clasificacion1_idx` (`id_clasificacion`),
   KEY `fk_Pelicula_Genero1_idx` (`id_genero`),
   CONSTRAINT `fk_Pelicula_Clasificacion1` FOREIGN KEY (`id_clasificacion`) REFERENCES `clasificacion` (`id_clasificacion`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_Pelicula_Genero1` FOREIGN KEY (`id_genero`) REFERENCES `genero` (`id_genero`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -431,7 +407,7 @@ CREATE TABLE `pelicula` (
 
 LOCK TABLES `pelicula` WRITE;
 /*!40000 ALTER TABLE `pelicula` DISABLE KEYS */;
-INSERT INTO `pelicula` VALUES (4,'Avengers','Estrenada','buena lica',1,1,'01:00:00'),(5,'DeadPool','Estrenada','buena lica',2,2,'01:00:00'),(6,'Ant-Man','Estrenada','buena lica',3,3,'01:00:00'),(7,'Mision Imposible','Estrenada','Mucha accion',1,1,'01:00:00'),(8,'Logan','Estrenada','Mucha accion',2,2,'01:50:00'),(9,'X-men','Estrenada','Mucha accion',3,3,'02:00:00'),(10,'Hotel Transilvania','Estrenada','Mucha accion',4,4,'01:40:00'),(11,'Lego Batman','Proximo Estreno','Mucha accion',5,5,'01:30:00'),(12,'Iron Man','Estrenada','Mucha accion',5,5,'01:45:00');
+INSERT INTO `pelicula` VALUES (1,'12 horas para sobrevivir: El inicio',1,'Detrás de cada tradición hay una revolución. Muy pronto, se testigo por 12 horas de la anarquía en Estados Unidos. Se bienvenido al movimiento que empezó como un simple experimento: 12 Horas para Sobrevivir: El Inicio. Para reducir la tasa de criminalidad por debajo del uno por ciento durante el resto del año, los Nuevos Padres Fundadores de los Estados Unidos, ponen a prueba una teoría sociológica para descargar la agresividad de una comunidad aislada por una noche. Pero la violencia de los opresores se encontrará con la rabia de los marginados y se contagiará desde las fronteras de la ciudad prueba, extendiéndose por toda la nación.',5,3,'01:06:00','https://static.cinepolis.com/videos/28117/1/2/28117.webm','https://m.media-amazon.com/images/M/MV5BYmVjMWJhMTYtMzUxMC00ODdhLTk3YzMtZDFhNGUyOGFhYTY0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX182_CR0,0,182,268_AL_.jpg'),(2,'Dios no está muerto 3',0,'La tercera película de la saga \"Dios No Está Muerto\" toma una dirección diferente enfocándose en la vida espiritual del Reverendo Dave,cuya fe es probada después de que su mejor amigo muere cuando la iglesia que pastorea es incendiada. Las luchas personales y con Dios que enfrenta el pastor Dave nos llevan en un viaje de cuestionamientos y reflexión sobre la fe, los creyentes y la iglesia.',3,1,'01:15:00','https://www.youtube.com/watch?v=VGpQh_wz1Jw','https://m.media-amazon.com/images/M/MV5BZTI4Y2Q1MGQtYjE3Yy00N2VkLTg5YTgtOGI4Y2QxMTA3NTgxXkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_UY268_CR5,0,182,268_AL_.jpg'),(3,'Hotel Transylvania 3: Monstruos de vac.',1,'Nuestra familia de monstruos favorita se embarca en un crucero de lujo para que por fin Drac pueda tomarse un descanso de proveer de vacaciones al resto en el hotel. Es una navegación tranquila para la pandilla de Drac, ya que los monstruos se entregan a toda la diversión a bordo que ofrece el crucero, desde el voleibol de monstruos y las excursiones exóticas, a ponerse al día con sus bronceados de luna. Pero las vacaciones de ensueño se convierten en una pesadilla cuando Mavis se da cuenta de que Drac se ha enamorado de la misteriosa capitana de la nave, Ericka, quien esconde un peligroso secreto que podría destruir a todos los monstruos.',1,2,'01:24:00','https://static.cinepolis.com/videos/27994/1/2/27994.webm','https://m.media-amazon.com/images/M/MV5BNTQwOTg0MDI3Nl5BMl5BanBnXkFtZTgwNjkyNzgxNDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg'),(4,'Mentes poderosas',1,'Cuando los adolescentes desarrollan misteriosamente nuevas y poderosas habilidades, el gobierno los declara una amenaza y los detiene. Ruby, de 16 años, una de las jóvenes más poderosas con las que se haya encontrado alguien, escapa del campamento y se une a un grupo de jóvenes fugitivos que buscan refugio seguro. Pronto esta familia recién formada se da cuenta de que los adultos que están en el poder los han traicionado, correr ya no será suficiente y deben oponer resistencia, utilizando su poder colectivo para recuperar el control de su futuro.',3,10,'01:34:00','https://static.cinepolis.com/videos/28119/1/2/28119.webm','https://m.media-amazon.com/images/M/MV5BMTUxOGE3OTUtM2I2My00YzE3LTg2NDktZTI3NjE4NDdjMGFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg'),(5,'Misión: Imposible repercusión',1,'Las mejores intenciones a menudo vuelven para perseguirte. MISIÓN: IMPOSIBLE - REPERCUSIÓN regresa con Ethan Hunt (Tom Cruise) y su equipo de la FMI (Alec Baldwin, Simon Pegg, Ving Rhames) junto con algunos aliados (Rebecca Ferguson, Michelle Monaghan) en una carrera contra reloj, después de una misión que salió mal. Henry Cavill, Angela Bassett y Vanessa Kirby también se unen al elenco. Christopher McQuarrie regresa como director de esta nueva entrega.',3,3,'01:20:00','https://static.cinepolis.com/videos/27981/1/2/27981.webm','https://m.media-amazon.com/images/M/MV5BMTk3NDY5MTU0NV5BMl5BanBnXkFtZTgwNDI3MDE1NTM@._V1_.jpg'),(6,'Rascacielos: Rescate en las alturas',1,'Will Ford, un experto en seguridad encargado de gestionar las infraestructuras de los rascacielos más grandes del mundo. Pero es acusado tras el incendio de uno de estos edificios en China y acabará envuelto en diversos peligros, que pondrán en una situación delicada a sus seres queridos y a sí mismo.',2,3,'01:25:00','https://static.cinepolis.com/videos/27983/1/2/27983.webm','https://m.media-amazon.com/images/M/MV5BOGM3MzQwYzItNDA1Ny00MzIyLTg5Y2QtYTAwMzNmMDU2ZDgxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX140_CR0,0,140,209_AL_.jpg'),(7,'A la deriva',0,'Después de haberse conocido Tahití, la casualidad hace que Tami Oldham (Shailene Woodley) y Richard Sharp (Sam Claflin) inicien un bello romance. La pareja disfrutará entonces de un viaje por el mar en su velero. Pero, en medio del océano, se verán sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, deberán sobrevivir a la deriva con un velero destrozado, sin comida y sin agua.',2,3,'01:40:00','https://static.cinepolis.com/videos/27982/1/2/27982.webm','https://m.media-amazon.com/images/M/MV5BMTkxMTI2MjE4OF5BMl5BanBnXkFtZTgwMjIyODQzNTM@._V1_.jpg'),(8,'El hombre hormiga y la avispa',1,'Desde el Universo Cinematográfico de Marvel llega \'Ant-Man y la Avispa\', un nuevo capítulo que presenta héroes con la asombrosa capacidad de contraerse. Después de \'Capitán América: Civil War\' Scott Lang tendrá que lidiar con las consecuencias de sus elecciones como superhéroe y como padre. Mientras lucha por re-equilibrar su vida con sus responsabilidades como Ant-Man, se enfrentará a Hope van Dyne y al Dr. Hank Pym en una nueva y urgente misión. Scott debe volver a enfundarse el traje y aprender a luchar junto con Avispa, al tiempo que trabajan en equipo para descubrir secretos del pasado.',3,3,'01:25:00','https://static.cinepolis.com/videos/27912/1/2/27912.webm','https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg');
 /*!40000 ALTER TABLE `pelicula` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -503,8 +479,9 @@ CREATE TABLE `reservacion` (
   `id_reservacion` int(11) NOT NULL AUTO_INCREMENT,
   `id_funcion` int(11) NOT NULL,
   `id_factura` int(11) NOT NULL,
-  `costo_reservacion` float DEFAULT NULL,
+  `asiento_reservacion` varchar(45) DEFAULT NULL,
   `id_tipo` int(11) NOT NULL,
+  `costo_reservacion` float DEFAULT NULL,
   PRIMARY KEY (`id_reservacion`),
   KEY `fk_Reservación_Hora_Funcion1_idx` (`id_funcion`),
   KEY `fk_RESERVACION_FACTURA1_idx` (`id_factura`),
@@ -543,7 +520,7 @@ CREATE TABLE `sala` (
   KEY `fk_SALA_FORMATO1_idx` (`id_experiencia`),
   CONSTRAINT `fk_SALA_CINE1` FOREIGN KEY (`id_cine`) REFERENCES `cine` (`id_cine`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_SALA_FORMATO1` FOREIGN KEY (`id_experiencia`) REFERENCES `experiencia` (`id_experiencia`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -552,7 +529,7 @@ CREATE TABLE `sala` (
 
 LOCK TABLES `sala` WRITE;
 /*!40000 ALTER TABLE `sala` DISABLE KEYS */;
-INSERT INTO `sala` VALUES (1,6,10,1,1,1),(2,6,10,2,3,1),(3,6,10,3,2,1),(4,6,10,1,3,1),(5,6,10,2,1,1);
+INSERT INTO `sala` VALUES (1,6,6,4,1,1),(2,6,6,2,2,1),(3,6,6,1,3,1),(4,6,6,4,1,2),(5,6,6,5,2,1),(6,6,6,3,3,1);
 /*!40000 ALTER TABLE `sala` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -567,7 +544,7 @@ CREATE TABLE `subtitulado` (
   `id_subtitulado` int(11) NOT NULL AUTO_INCREMENT COMMENT 'DOLBY\nATMOSPHERIC...',
   `descripcion_subtitulado` varchar(30) DEFAULT NULL,
   PRIMARY KEY (`id_subtitulado`)
-) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -576,7 +553,7 @@ CREATE TABLE `subtitulado` (
 
 LOCK TABLES `subtitulado` WRITE;
 /*!40000 ALTER TABLE `subtitulado` DISABLE KEYS */;
-INSERT INTO `subtitulado` VALUES (1,'SPANISH'),(2,'INGLES'),(3,'FRANCES'),(4,'ALEMAN'),(5,'RUSO'),(6,'JAPONES');
+INSERT INTO `subtitulado` VALUES (1,'SPANISH'),(2,'N/A');
 /*!40000 ALTER TABLE `subtitulado` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -629,7 +606,7 @@ CREATE TABLE `usuario` (
 
 LOCK TABLES `usuario` WRITE;
 /*!40000 ALTER TABLE `usuario` DISABLE KEYS */;
-INSERT INTO `usuario` VALUES ('chopes','e1d5be1c7f2f456670de3d53c7b54f4a',1,1,1,1),('dos','e1d5be1c7f2f456670de3d53c7b54f4a',1,0,0,0),('five','e1d5be1c7f2f456670de3d53c7b54f4a',0,1,1,1),('one','e1d5be1c7f2f456670de3d53c7b54f4a',0,0,0,1),('tres','e1d5be1c7f2f456670de3d53c7b54f4a',0,1,0,0),('two','e1d5be1c7f2f456670de3d53c7b54f4a',0,0,1,0),('yulio','e1d5be1c7f2f456670de3d53c7b54f4a',0,0,0,0);
+INSERT INTO `usuario` VALUES ('chopes','e1d5be1c7f2f456670de3d53c7b54f4a',1,1,1,1);
 /*!40000 ALTER TABLE `usuario` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -642,4 +619,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-07-30  2:43:07
+-- Dump completed on 2018-08-06  3:02:07
