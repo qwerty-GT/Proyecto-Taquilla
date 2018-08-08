@@ -1,0 +1,136 @@
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\bin\Debug\LICAS.exe.config
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\bin\Debug\LICAS.exe
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\bin\Debug\LICAS.pdb
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\obj\Debug\LICAS.csprojResolveAssemblyReference.cache
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\obj\Debug\LICAS.Properties.Resources.resources
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\obj\Debug\LICAS.csproj.GenerateResource.Cache
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\obj\Debug\LICAS.exe
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\obj\Debug\LICAS.pdb
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\obj\Debug\LICAS.frm_menu.resources
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\obj\Debug\LICAS.frm_ayuda.resources
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\obj\Debug\LICAS.frm_cartelera.resources
+c:\users\chopes\documents\visual studio 2015\Projects\LICAS\LICAS\obj\Debug\LICAS.frm_pelicula.resources
+D:\Desktop\LICAS\LICAS\bin\Debug\LICAS.exe.config
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.exe
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.pdb
+D:\Desktop\LICAS\LICAS\bin\Debug\LICAS.exe
+D:\Desktop\LICAS\LICAS\bin\Debug\LICAS.pdb
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.csprojResolveAssemblyReference.cache
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_ayuda.resources
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_cartelera.resources
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_estrenos.resources
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_menu.resources
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_pelicula.resources
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.Properties.Resources.resources
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.csproj.GenerateResource.Cache
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_boletos.resources
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\bin\Debug\LICAS.exe.config
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\obj\Debug\LICAS.exe
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\obj\Debug\LICAS.pdb
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\bin\Debug\LICAS.exe
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\bin\Debug\LICAS.pdb
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\obj\Debug\LICAS.csprojResolveAssemblyReference.cache
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_ayuda.resources
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_boletos.resources
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_cartelera.resources
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_estrenos.resources
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_menu.resources
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_pelicula.resources
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\obj\Debug\LICAS.Properties.Resources.resources
+C:\Users\chopes\Downloads\Telegram Desktop\LICAS\LICAS\obj\Debug\LICAS.csproj.GenerateResource.Cache
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_asientos.resources
+C:\Users\chopes\Desktop\LICAS\LICAS\bin\Debug\LICAS.exe.config
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.exe
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.pdb
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.csprojResolveAssemblyReference.cache
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_asientos.resources
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_ayuda.resources
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_boletos.resources
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_cartelera.resources
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_estrenos.resources
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_menu.resources
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_pelicula.resources
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.Properties.Resources.resources
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.csproj.GenerateResource.Cache
+C:\Users\chopes\Desktop\LICAS\LICAS\bin\Debug\LICAS.exe
+C:\Users\chopes\Desktop\LICAS\LICAS\bin\Debug\LICAS.pdb
+D:\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_factura.resources
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_factura.resources
+D:\Desktop\LICAS (6)\LICAS\LICAS\bin\Debug\LICAS.exe.config
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.exe
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.pdb
+D:\Desktop\LICAS (6)\LICAS\LICAS\bin\Debug\LICAS.exe
+D:\Desktop\LICAS (6)\LICAS\LICAS\bin\Debug\LICAS.pdb
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.csprojResolveAssemblyReference.cache
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_asientos.resources
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_ayuda.resources
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_boletos.resources
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_cartelera.resources
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_estrenos.resources
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_factura.resources
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_menu.resources
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_pelicula.resources
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.Properties.Resources.resources
+D:\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.csproj.GenerateResource.Cache
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\bin\Debug\LICAS.exe.config
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.exe
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.pdb
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.csprojResolveAssemblyReference.cache
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_asientos.resources
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_ayuda.resources
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_boletos.resources
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_cartelera.resources
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_estrenos.resources
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_factura.resources
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_menu.resources
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.frm_pelicula.resources
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.Properties.Resources.resources
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\obj\Debug\LICAS.csproj.GenerateResource.Cache
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\bin\Debug\LICAS.exe
+C:\Users\chopes\Desktop\LICAS (6)\LICAS\LICAS\bin\Debug\LICAS.pdb
+D:\Desktop\LICAS (7)\LICAS\LICAS\bin\Debug\LICAS.exe.config
+D:\Desktop\LICAS (7)\LICAS\LICAS\bin\Debug\LICAS.exe
+D:\Desktop\LICAS (7)\LICAS\LICAS\bin\Debug\LICAS.pdb
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.csprojResolveAssemblyReference.cache
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.frm_asientos.resources
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.frm_ayuda.resources
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.frm_boletos.resources
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.frm_cartelera.resources
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.frm_estrenos.resources
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.frm_factura.resources
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.frm_menu.resources
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.frm_pelicula.resources
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.Properties.Resources.resources
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.csproj.GenerateResource.Cache
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.exe
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.pdb
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.frm_terminos.resources
+D:\Desktop\LICAS (7)\LICAS\LICAS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Desktop\LICAS (7)\LICAS\LICAS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Desktop\LICAS (7)\LICAS\LICAS\obj\Debug\LICAS.csproj.ResolveComReference.cache
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.csproj.ResolveComReference.cache
+C:\Users\chopes\Desktop\LICAS\LICAS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\chopes\Desktop\LICAS\LICAS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\chopes\Desktop\LICAS\LICAS\obj\Debug\LICAS.frm_terminos.resources
+I:\LICAS\LICAS\bin\Debug\LICAS.exe.config
+I:\LICAS\LICAS\obj\Debug\Interop.ShockwaveFlashObjects.dll
+I:\LICAS\LICAS\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+I:\LICAS\LICAS\obj\Debug\LICAS.csproj.ResolveComReference.cache
+I:\LICAS\LICAS\obj\Debug\LICAS.exe
+I:\LICAS\LICAS\obj\Debug\LICAS.pdb
+E:\LICAS\LICAS\bin\Debug\LICAS.exe.config
+E:\LICAS\LICAS\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\LICAS\LICAS\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\LICAS\LICAS\obj\Debug\LICAS.csproj.ResolveComReference.cache
+E:\LICAS\LICAS\obj\Debug\LICAS.exe
+E:\LICAS\LICAS\obj\Debug\LICAS.pdb
+F:\LICAS\LICAS\bin\Debug\LICAS.exe.config
+F:\LICAS\LICAS\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\LICAS\LICAS\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\LICAS\LICAS\obj\Debug\LICAS.csproj.ResolveComReference.cache
+F:\LICAS\LICAS\obj\Debug\LICAS.exe
+F:\LICAS\LICAS\obj\Debug\LICAS.pdb

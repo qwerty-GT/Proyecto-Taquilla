@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style type="text/css">
+			div.one {
+				background-color:#E6E6E6; 
+				margin-left: 200px;
+				margin-right: 200px;
+				text-align: left; 
+				padding-left: 28px; 
+				padding-right: 28px;
+				padding-bottom: 25px;
+				padding-top: 5px;
+			}
+			div.two {
+				background-color:White; 
+				margin-left: 1px;
+				margin-right: 1px;
+				text-align: left; 
+				padding-left: 20px; 
+				padding-right: 20px;
+				padding-bottom: 10px;
+				padding-top: 10px;
+			}
+			h1 {
+			    font-size: 20px;
+			    font-family: Arial, Helvetica, sans-serif;';
+			}
+			h2 {
+			    font-size: 15px;
+			    font-family: Arial, Helvetica, sans-serif;
+			}
+			table {
+			    width: 100%;
+			}
+			th, td, p {
+				font-family: Arial, Helvetica, sans-serif;
+			}
+			
+
+		</style>
+	</head>
+	<body style="background-color:#F1C40F">
+		<center><br><img src="https://preview.ibb.co/epdtAe/LICAS_LETRA_NO_BG.png" alt="LICAS_LETRA_NO_BG" border="0"width="100" /></center>
+		<div align="center" class="one">
+		 	<h1>Datos de tu Órden:</h1>	
+		 	<div align="center" class="two">
+		 		<h2>Número de factura:</h2>
+		 		<p>{idfactura}</p>
+				<hr>
+		 		<h2>Cine:</h2>	
+		 		<p>{cine}</p>
+				<hr>
+				<table>
+		 			<tr>
+					    <th>Película:</th>
+					    <th></th>
+					</tr>
+					<tr>
+					    <td>{pelicula}</td>	
+					</tr>
+		 		</table>
+				<hr>
+		 		<table>
+		 			<tr>
+					    <th>Sala:</th>	
+					    <th>Fecha:</th>
+					    <th>Hora:</th>
+					</tr>
+					<tr>
+					    <td>{sala}</td>
+					    <td>{fecha}</td>
+					    <td>{hora}</td>
+					</tr>
+		 		</table>
+				<hr>
+		 		<h2>Asientos:</h2>	
+		 		<p>{asientos}</p>
+				<hr>
+		 		<h2>ID del cine:</h2>
+		 		<p>{idcine}</p>	
+				<hr>
+		 		<table>
+		 			<tr>
+					    <th>#</th>
+					    <th>Boletos</th>
+					    <th>Costo</th>
+					</tr>
+					<tr>
+					    <td>({na})</td>	
+					    <td>ADULTO</td>
+					    <td>Q. {sa}</td>
+					</tr>
+					<tr>
+					    <td>({nc})</td>	
+					    <td>NIÑO</td>
+					    <td>Q. {sn}</td>
+					</tr>
+					<tr>
+					    <td>({n3})</td>	
+					    <td>3 EDAD</td>
+					    <td>Q. {s3}</td>
+						
+					</tr>
+					<tr>
+					    <td></td>	
+						<hr>
+					    <th><h2>TOTAL</h2></th>
+					    <td>Q. {total}</td>
+					</tr>
+		 		</table>	
+		 	</div>
+		</div>
+	</body>
+</html>
