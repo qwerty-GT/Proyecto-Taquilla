@@ -150,3 +150,6 @@ C:\Users\jtanc\Downloads\Telegram Desktop\ADMIN corregido\ADMIN\obj\Debug\ADMIN.
 I:\ADMIN corregido\ADMIN\bin\Debug\ADMIN.exe.config
 I:\ADMIN corregido\ADMIN\obj\Debug\ADMIN.exe
 I:\ADMIN corregido\ADMIN\obj\Debug\ADMIN.pdb
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\ADMIN corregido\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\ADMIN corregido\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\ADMIN corregido\ADMIN\obj\Debug\ADMIN.pdb

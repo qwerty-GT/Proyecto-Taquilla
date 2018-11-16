@@ -162,3 +162,6 @@ C:\Users\jtanc\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.frm_reportes.resources
 C:\Users\jtanc\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.frm_salas.resources
 C:\Users\jtanc\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.frm_usuarios.resources
 C:\Users\jtanc\Desktop\ADMIN\ADMIN\obj\Debug\ADMIN.csproj.GenerateResource.Cache
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\ADMIN (4ta fase)\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\ADMIN (4ta fase)\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\ADMIN (4ta fase)\ADMIN\obj\Debug\ADMIN.pdb

@@ -268,3 +268,6 @@ E:\ADMIN\ADMIN\obj\Debug\ADMIN.pdb
 G:\ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
 G:\ADMIN\ADMIN\obj\Debug\ADMIN.exe
 G:\ADMIN\ADMIN\obj\Debug\ADMIN.pdb
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\App ADMIN\ADMIN\bin\Debug\ADMIN.exe.config
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\App ADMIN\ADMIN\obj\Debug\ADMIN.exe
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\App ADMIN\ADMIN\obj\Debug\ADMIN.pdb

@@ -134,3 +134,9 @@ F:\LICAS\LICAS\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
 F:\LICAS\LICAS\obj\Debug\LICAS.csproj.ResolveComReference.cache
 F:\LICAS\LICAS\obj\Debug\LICAS.exe
 F:\LICAS\LICAS\obj\Debug\LICAS.pdb
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\LICAS\LICAS\bin\Debug\LICAS.exe.config
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\LICAS\LICAS\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\LICAS\LICAS\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\LICAS\LICAS\obj\Debug\LICAS.csproj.ResolveComReference.cache
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\LICAS\LICAS\obj\Debug\LICAS.exe
+C:\Users\jtanc\Documents\GitHub\Proyecto-Taquilla\LICAS\LICAS\obj\Debug\LICAS.pdb
